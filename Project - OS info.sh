@@ -1,5 +1,4 @@
 # Purpose: Displays local machine details: OS, IP, Memory usage and processes details
-# INTENDED OS: Linux based
 
 #!/bin/bash
 
